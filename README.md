@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Kevin Saul, Owner and Principal Consultant for Ecological Data Services, LLC. My public repositories are intended to provide coding examples for accessing and analyzing public earth-science data sources. 
-- Repositories
-- * Microsoft Planetary Computer & gNATSCO (Soil Survey) data.
-- 
+#  &nbsp;&nbsp;&nbsp;🌿 Ecological Data Services, LLC 🌿
+# 🌿 https://www.ecodataservices.com 🌿
 
-- Find out more about my company here: https://www.ecodataservices.com
+Hi, I’m Kevin Saul, Owner and Principal Consultant for Ecological Data Services, LLC. My public repositories are intended to provide coding examples for accessing and integrating and analyzing public earth-science data sources. 
+
+## Public Repositories
+  - Microsoft Planetary Computer & gNATSCO (Soil Survey) data.
 
 <!---
 ksauldataservices/ksauldataservices is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
