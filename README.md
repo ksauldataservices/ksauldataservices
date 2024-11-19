@@ -1,7 +1,7 @@
 #  Ecological Data Services, LLC
 # https://www.ecodataservices.com
 
-Hi, I’m Kevin Saul, Owner and Principal Consultant for Ecological Data Services, LLC. I help customers optimize data assets through data system design an engineering services.
+Hi, I’m Kevin Saul, Owner and Principal Consultant for Ecological Data Services, LLC. I help customers optimize data assets through data system design and software engineering services.
 This repository contains proof of concepts and coding examples for integration and analysis of public earth-science data sources. 
 
 ## Public Repositories
